@@ -48,6 +48,7 @@ This project focuses on building a **Power BI dashboard** to monitor and analyze
 
 ## 🖥️ Dashboard Preview
   
+  <img width="1308" height="734" alt="image" src="https://github.com/user-attachments/assets/5e547f50-8bf4-4266-b0ba-4dcbc106fffa" />
 
 
 ---
@@ -72,5 +73,6 @@ This project focuses on building a **Power BI dashboard** to monitor and analyze
 
 ## 👨‍💻 Completed By  
 **Intern Name:** Vimali Vincy M 
+
 **Cohort:** Future Interns – Data Science & Analytics  
  
